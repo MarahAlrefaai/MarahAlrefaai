@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋</h1>
 <p align="center">Welcome to my GitHub profile . 
-</br>I'm marah al refaai and a full stack developer feel free to contact with me .</p>
+</br>I'm marah al refaai and im a full stack developer feel free to contact with me .</p>
 
 
 <img src="https://miro.medium.com/max/960/1*kaW8eKIlpUcVVMt2VhcaCA.gif" alt="marahalrefai" height="300px" width="300px" align="right"/> 
